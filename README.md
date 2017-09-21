@@ -1,5 +1,5 @@
 # 玖鼎聚合JDAnySDK Android客户端文档
-[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/JiuDingGame/JDAnySDKForAndroid/raw/master/LICENSE)&nbsp;
+[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/JiuDingGame/JDAnySDKForAndroid/master/LICENSE)&nbsp;
 
 使用
 ==============
