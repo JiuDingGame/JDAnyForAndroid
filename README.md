@@ -6,7 +6,7 @@
 1.将jdanysdk.jar包复制到游戏项目对应的目录下。
 
 2.导入库文件、修改manifest<br/>
-<img src="https://raw.githubusercontent.com/JiuDingGame/master/Snapshots/Androidmanifest.png"><br/>
+<img src="https://github.com/JiuDingGame/raw/master/Snapshots/Androidmanifest.png"><br/>
 
 注意	
 ==============
