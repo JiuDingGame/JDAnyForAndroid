@@ -1,12 +1,12 @@
 # 玖鼎聚合JDAnySDK Android客户端文档
-[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/JiuDingGame/JDAnySDK/master/LICENSE)&nbsp;
+[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/JiuDingGame/master/LICENSE)&nbsp;
 
 使用
 ==============
 1.将jdanysdk.jar包复制到游戏项目对应的目录下。
 
 2.导入库文件、修改manifest<br/>
-<img src="https://raw.githubusercontent.com/JiuDingGame/JDAnySDK/master/Snapshots/Androidmanifest.png"><br/>
+<img src="https://raw.githubusercontent.com/JiuDingGame/master/Snapshots/Androidmanifest.png"><br/>
 
 注意	
 ==============
