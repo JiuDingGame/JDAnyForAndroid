@@ -562,22 +562,22 @@ JDAnySDK.getInstance().setSDKListener(new IJDAnySDKListener()
 				switch(code)
 				{
 				case JDAnySDKCode.CODE_INIT_SUCCESS:
-					Log.d("FDSDK", "初始化成功");
+					Log.d("JDAnySDK", "初始化成功");
 					break;
 				case JDAnySDKCode.CODE_INIT_FAIL:
-					Log.d("FDSDK", "初始化失败");
+					Log.d("JDAnySDK", "初始化失败");
 					break;
 				case JDAnySDKCode.CODE_LOGIN_FAIL:
-					Log.d("FDSDK", "登录失败");
+					Log.d("JDAnySDK", "登录失败");
 					break;
 				case JDAnySDKCode.CODE_LOGIN_SUCCESS:
-					Log.d("FDSDK", "登录成功");
+					Log.d("JDAnySDK", "登录成功");
 					break;
 				case JDAnySDKCode.CODE_LOGOUT_SUCCESS:
-					Log.d("FDSDK", "注销成功");
+					Log.d("JDAnySDK", "注销成功");
 					break;
 				case JDAnySDKCode.CODE_EXIT_SUCCESS:
-    				Log.d("FDSDK", "退出成功");
+    				Log.d("JDAnySDK", "退出成功");
 					break;
 				default:
 				Log.d("JDAnySDK", "onResult:"+message);
