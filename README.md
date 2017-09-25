@@ -356,11 +356,6 @@ public void onConfigurationChanged(Configuration newConfig){
 	super.onConfigurationChanged(newConfig);
 }
 
-public boolean dispatchKeyEvent(KeyEvent event) {
-	JDAnySDK.getInstance().onBackPressed();
-	return super.dispatchKeyEvent(event);
-}
-
 //如果是unity开发的游戏，需要把onBackPressed和onKeyDown注释掉
 public void onBackPressed()
 {
